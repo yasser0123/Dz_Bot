@@ -1,5 +1,5 @@
-﻿token=NTI1ODA1Mzg5NTE4ODY0Mzg0.Dv7_KA.Ue04kwBJi6cf-6isWM-67qO6hlI
-owner=406039166959353857
+﻿token=WuqITx_hv-0kE9POkWaOw72Xfre3fY2h
+owner=525805389518864384
 prefix= t
 game= !thelp
 stayinchannel=true
